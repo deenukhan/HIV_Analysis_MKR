@@ -1,0 +1,211 @@
+REGION,YEAR,PEOPLE HAVING HIV
+Global,2019,38000000.0
+Global,2018,37300000.0
+Global,2017,36500000.0
+Global,2016,35700000.0
+Global,2015,34900000.0
+Global,2014,34100000.0
+Global,2013,33200000.0
+Global,2012,32400000.0
+Global,2011,31600000.0
+Global,2010,30700000.0
+Global,2009,29900000.0
+Global,2008,29100000.0
+Global,2007,28400000.0
+Global,2006,27800000.0
+Global,2005,27300000.0
+Global,2004,26800000.0
+Global,2003,26300000.0
+Global,2002,25700000.0
+Global,2001,24900000.0
+Global,2000,24000000.0
+Global,1999,22800000.0
+Global,1998,21500000.0
+Global,1997,20100000.0
+Global,1996,18500000.0
+Global,1995,16800000.0
+Global,1994,15000000.0
+Global,1993,13100000.0
+Global,1992,11300000.0
+Global,1991,9400000.0
+Global,1990,7700000.0
+Africa,2019,25700000.0
+Africa,2018,25300000.0
+Africa,2017,24900000.0
+Africa,2016,24400000.0
+Africa,2015,23900000.0
+Africa,2014,23400000.0
+Africa,2013,22900000.0
+Africa,2012,22400000.0
+Africa,2011,21800000.0
+Africa,2010,21300000.0
+Africa,2009,20700000.0
+Africa,2008,20200000.0
+Africa,2007,19700000.0
+Africa,2006,19300000.0
+Africa,2005,19000000.0
+Africa,2004,18700000.0
+Africa,2003,18400000.0
+Africa,2002,18000000.0
+Africa,2001,17600000.0
+Africa,2000,17000000.0
+Africa,1999,16300000.0
+Africa,1998,15500000.0
+Africa,1997,14500000.0
+Africa,1996,13400000.0
+Africa,1995,12300000.0
+Africa,1994,11000000.0
+Africa,1993,9700000.0
+Africa,1992,8300000.0
+Africa,1991,7000000.0
+Africa,1990,5700000.0
+Americas,2019,3700000.0
+Americas,2018,3600000.0
+Americas,2017,3500000.0
+Americas,2016,3400000.0
+Americas,2015,3300000.0
+Americas,2014,3200000.0
+Americas,2013,3100000.0
+Americas,2012,3000000.0
+Americas,2011,2900000.0
+Americas,2010,2800000.0
+Americas,2009,2800000.0
+Americas,2008,2700000.0
+Americas,2007,2600000.0
+Americas,2006,2500000.0
+Americas,2005,2400000.0
+Americas,2004,2300000.0
+Americas,2003,2300000.0
+Americas,2002,2200000.0
+Americas,2001,2100000.0
+Americas,2000,2000000.0
+Americas,1999,1900000.0
+Americas,1998,1800000.0
+Americas,1997,1700000.0
+Americas,1996,1600000.0
+Americas,1995,1500000.0
+Americas,1994,1400000.0
+Americas,1993,1400000.0
+Americas,1992,1300000.0
+Americas,1991,1200000.0
+Americas,1990,1100000.0
+South-East Asia,2019,3700000.0
+South-East Asia,2018,3700000.0
+South-East Asia,2017,3600000.0
+South-East Asia,2016,3600000.0
+South-East Asia,2015,3600000.0
+South-East Asia,2014,3600000.0
+South-East Asia,2013,3500000.0
+South-East Asia,2012,3500000.0
+South-East Asia,2011,3400000.0
+South-East Asia,2010,3400000.0
+South-East Asia,2009,3400000.0
+South-East Asia,2008,3300000.0
+South-East Asia,2007,3300000.0
+South-East Asia,2006,3300000.0
+South-East Asia,2005,3300000.0
+South-East Asia,2004,3300000.0
+South-East Asia,2003,3400000.0
+South-East Asia,2002,3400000.0
+South-East Asia,2001,3300000.0
+South-East Asia,2000,3200000.0
+South-East Asia,1999,3000000.0
+South-East Asia,1998,2800000.0
+South-East Asia,1997,2600000.0
+South-East Asia,1996,2300000.0
+South-East Asia,1995,2100000.0
+South-East Asia,1994,1800000.0
+South-East Asia,1993,1400000.0
+South-East Asia,1992,1100000.0
+South-East Asia,1991,730000.0
+South-East Asia,1990,430000.0
+Europe,2019,2600000.0
+Europe,2018,2400000.0
+Europe,2017,2300000.0
+Europe,2016,2200000.0
+Europe,2015,2100000.0
+Europe,2014,2000000.0
+Europe,2013,1800000.0
+Europe,2012,1700000.0
+Europe,2011,1600000.0
+Europe,2010,1600000.0
+Europe,2009,1500000.0
+Europe,2008,1400000.0
+Europe,2007,1300000.0
+Europe,2006,1200000.0
+Europe,2005,1100000.0
+Europe,2004,1100000.0
+Europe,2003,1000000.0
+Europe,2002,930000.0
+Europe,2001,850000.0
+Europe,2000,780000.0
+Europe,1999,710000.0
+Europe,1998,650000.0
+Europe,1997,580000.0
+Europe,1996,530000.0
+Europe,1995,480000.0
+Europe,1994,440000.0
+Europe,1993,400000.0
+Europe,1992,370000.0
+Europe,1991,350000.0
+Europe,1990,320000.0
+Eastern Mediterranean,2019,420000.0
+Eastern Mediterranean,2018,390000.0
+Eastern Mediterranean,2017,370000.0
+Eastern Mediterranean,2016,350000.0
+Eastern Mediterranean,2015,330000.0
+Eastern Mediterranean,2014,310000.0
+Eastern Mediterranean,2013,290000.0
+Eastern Mediterranean,2012,270000.0
+Eastern Mediterranean,2011,260000.0
+Eastern Mediterranean,2010,240000.0
+Eastern Mediterranean,2009,220000.0
+Eastern Mediterranean,2008,200000.0
+Eastern Mediterranean,2007,180000.0
+Eastern Mediterranean,2006,170000.0
+Eastern Mediterranean,2005,150000.0
+Eastern Mediterranean,2004,130000.0
+Eastern Mediterranean,2003,120000.0
+Eastern Mediterranean,2002,110000.0
+Eastern Mediterranean,2001,100000.0
+Eastern Mediterranean,2000,91000.0
+Eastern Mediterranean,1999,80000.0
+Eastern Mediterranean,1998,69000.0
+Eastern Mediterranean,1997,58000.0
+Eastern Mediterranean,1996,48000.0
+Eastern Mediterranean,1995,39000.0
+Eastern Mediterranean,1994,31000.0
+Eastern Mediterranean,1993,25000.0
+Eastern Mediterranean,1992,20000.0
+Eastern Mediterranean,1991,15000.0
+Eastern Mediterranean,1990,12000.0
+Western Pacific,2019,1900000.0
+Western Pacific,2018,1900000.0
+Western Pacific,2017,1800000.0
+Western Pacific,2016,1700000.0
+Western Pacific,2015,1700000.0
+Western Pacific,2014,1600000.0
+Western Pacific,2013,1600000.0
+Western Pacific,2012,1500000.0
+Western Pacific,2011,1500000.0
+Western Pacific,2010,1400000.0
+Western Pacific,2009,1400000.0
+Western Pacific,2008,1400000.0
+Western Pacific,2007,1300000.0
+Western Pacific,2006,1300000.0
+Western Pacific,2005,1200000.0
+Western Pacific,2004,1200000.0
+Western Pacific,2003,1100000.0
+Western Pacific,2002,1100000.0
+Western Pacific,2001,980000.0
+Western Pacific,2000,910000.0
+Western Pacific,1999,820000.0
+Western Pacific,1998,730000.0
+Western Pacific,1997,640000.0
+Western Pacific,1996,540000.0
+Western Pacific,1995,440000.0
+Western Pacific,1994,320000.0
+Western Pacific,1993,200000.0
+Western Pacific,1992,150000.0
+Western Pacific,1991,120000.0
+Western Pacific,1990,90000.0
